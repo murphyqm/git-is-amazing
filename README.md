@@ -8,4 +8,7 @@ A showcase of how amazing git is as a tool
 - Save everything, add it, commit it sensibly
 - **Push**
 
+## common commands
+
 - git status
+- git add .
