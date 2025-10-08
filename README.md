@@ -12,3 +12,5 @@ A showcase of how amazing git is as a tool
 
 - git status
 - git add .
+
+Here is another edit to my folder
